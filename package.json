@@ -23,7 +23,8 @@
     "graphql-passport": "^0.6.8",
     "mongodb": "^6.10.0",
     "mongoose": "^8.8.1",
-    "passport": "^0.7.0"
+    "passport": "^0.7.0",
+    "session": "^0.1.0"
   },
   "devDependencies": {
     "nodemon": "^3.1.7"

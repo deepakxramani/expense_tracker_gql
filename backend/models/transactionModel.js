@@ -1,4 +1,4 @@
-import mongoose, { mongo } from "mongoose";
+import mongoose from "mongoose";
 
 const transactionSchema = new mongoose.Schema({
     userId: {
