@@ -10,7 +10,6 @@ type User {
 }
 
 type Query {
-    users: [User!]          # '!' => each user cannot be null
     authUser: User
     user(userId: ID!): User
 }
